@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   rxdart: ^0.24.0
-  simple_connectivity: ^0.1.1
+  connectivity_plus: ^2.3.0
   stream_disposable: ^0.1.0
   http: ^0.13.0
 
